@@ -1,0 +1,22 @@
+main {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 0px;
+}
+  
+app-square {
+    border: 1px gray solid;
+    height: 100px;
+}
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #F39C12;
+    font-size: 3rem;
+    font-weight: 300;
+}
+.subtitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #85929E;
+    font-size: 1.5rem;
+    font-weight: 200;
+}
